@@ -23,7 +23,7 @@ from pipeline import (
 
 # ============================================================================
 IMAGE_DIR = "./out"
-VIDEO_SOURCE = "input.mp4"
+VIDEO_SOURCE = "video/input.mp4"
 SHAPE = (720, 1280)  # HxW
 EXIT_PTS = np.array([
     [[732, 720], [732, 590], [1280, 500], [1280, 720]],

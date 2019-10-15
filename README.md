@@ -1,5 +1,7 @@
 # Traffic counting example based on OpencCV object detection with background subtraction
 
+Install [ffmpeg](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
+
 You can read article for this code [here](https://hackernoon.com/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660)
 
 [@haider8645]( https://github.com/haider8645 ) added multiline counting support, it in separate brunch.
