@@ -15,7 +15,7 @@ You can read article for this code [here](https://medium.com/machine-learning-wo
 ![Report plot](report.png)
 
 ## Data
-Go to http://keepvid.com/ and download video in 720p quality with url https://youtu.be/wqctLW0Hb_0
+Go to https://y2mate.com and download video in 720p quality with url https://youtu.be/wqctLW0Hb_0
 
 After running the script with defualt settings you will get **./out** dir with debug frames images and **report.csv** file with format "time, vehicles".
 
